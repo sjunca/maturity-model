@@ -7,9 +7,8 @@
                     <li><a target="_blank" href="https://www.linkedin.com/company/sphera" class="fa fa-linkedin"></a></li>
                     <li><a target="_blank" href="https://twitter.com/SpheraSolutions" class="fa fa-twitter"></a></li>
                     <li><a target="_blank" href="https://www.facebook.com/SpheraSolutions/" class="fa fa-facebook"></a></li>
-                    <li><a target="_blank" href="https://plus.google.com/112498098458005463037" class="fa fa-google-plus"></a></li>
                 </ul>
-                <p>Copyright &copy; 2018 <a href="https://sphera.com">Sphera. </a> <span id="copyright-mobile-hide">All rights reserved. / <a href="https://sphera.com/cookies-policy/">Cookies Policy</a> / <a href="https://sphera.com/data-processing-policy/">Data Processing Policy</a></span></p>
+                <p>Copyright &copy; 2019 <a href="https://sphera.com">Sphera. </a> <span id="copyright-mobile-hide">All rights reserved. / <a href="https://sphera.com/cookies-policy/">Cookies Policy</a> / <a href="https://sphera.com/data-processing-policy/">Data Processing Policy</a></span></p>
             </div>
         </div>
     </div>
